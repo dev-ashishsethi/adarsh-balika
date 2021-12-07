@@ -206,6 +206,6 @@ hr {
   }
 
   .link-primary {
-    display: block;
+    display: none;
   }
 }
